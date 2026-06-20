@@ -1,5 +1,4 @@
 # Swiggy-Food-Delivery-Analytics-Dashboard
-# Swiggy Food Delivery Analytics Dashboard
 
 ## Project Overview
 The Swiggy Food Delivery Analytics Dashboard is an Excel-based data analytics project designed to analyze food delivery data and generate meaningful business insights. The project focuses on understanding sales performance, customer ordering patterns, restaurant performance, and overall business trends through interactive visualizations.
