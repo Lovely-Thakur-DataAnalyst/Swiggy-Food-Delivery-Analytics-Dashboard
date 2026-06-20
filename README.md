@@ -1,30 +1,36 @@
 # Swiggy-Food-Delivery-Analytics-Dashboard
-**Project Overview**
--Developed an interactive Excel-based analytics dashboard to analyze Swiggy food delivery data and generate actionable business insights.
--Focused on understanding sales performance, customer behavior, restaurant trends, and operational metrics through data analysis and visualization.
+# Swiggy Food Delivery Analytics Dashboard
 
-**Data Analysis & Preparation**
--Cleaned and transformed raw data by handling inconsistencies, missing values, and formatting issues.
--Created structured datasets and calculated key performance indicators (KPIs) for effective reporting.
--Used analytical techniques to identify patterns, trends, and business opportunities.
+## Project Overview
+The Swiggy Food Delivery Analytics Dashboard is an Excel-based data analytics project designed to analyze food delivery data and generate meaningful business insights. The project focuses on understanding sales performance, customer ordering patterns, restaurant performance, and overall business trends through interactive visualizations.
 
-**Dashboard Features**
--Designed an interactive dashboard with KPI cards, charts, filters, and performance summaries.
--Analyzed revenue trends, order patterns, restaurant performance, and location-wise demand.
--Applied data visualization principles to create a clear and user-friendly reporting experience.
+## Objective
+The main objective of this project is to transform raw food delivery data into a structured and interactive dashboard that helps identify important performance indicators and supports data-driven decision-making.
 
-**Key Insights Generated**
--Identified top-performing restaurants and food categories contributing to overall revenue.
--Evaluated customer ordering patterns and demand trends.
--Highlighted areas for improvement using data-driven analysis.
+## Data Preparation & Cleaning
+* Cleaned and organized raw datasets to improve data quality.
+* Handled missing values, inconsistencies, and formatting issues.
+* Prepared data for analysis by creating structured tables and calculated metrics.
 
-**Tools & Skills Used**
--Microsoft Excel
--Data Cleaning & Transformation
--Pivot Tables & Dashboard Development
--Data Visualization
--Business Intelligence Reporting
+## Analysis Performed
+* Analyzed overall sales and order performance.
+* Evaluated restaurant-wise and category-wise performance.
+* Studied customer ordering trends and demand patterns.
+* Identified key areas contributing to business growth and improvement opportunities.
 
-**Project Outcome**
--Created a complete analytics solution that converts raw food delivery data into meaningful insights.
--Demonstrated the ability to perform end-to-end data analysis, from data preparation to dashboard creation.
+## Dashboard Features
+* Interactive Excel dashboard with KPI cards and visual reports.
+* Sales and order performance tracking.
+* Restaurant and food category analysis.
+* Easy-to-understand charts and filters for better exploration.
+
+## Tools & Skills Used
+* Microsoft Excel
+* Data Cleaning & Transformation
+* Pivot Tables
+* Dashboard Development
+* Data Visualization
+* Business Analysis
+
+## Key Outcome
+This project demonstrates the complete data analysis workflow, from raw data cleaning to dashboard creation. The final dashboard provides a clear view of business performance and converts complex data into actionable insights for decision-making.
